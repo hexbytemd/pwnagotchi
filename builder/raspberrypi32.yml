@@ -145,7 +145,7 @@
           - libopenmpi3
           - libpcap-dev
           - libprotobuf-dev
-          - libraspberrypi-bin
+          - # libraspberrypi-bin
           - libraspberrypi-dev
           - libraspberrypi-doc
           - libraspberrypi0
